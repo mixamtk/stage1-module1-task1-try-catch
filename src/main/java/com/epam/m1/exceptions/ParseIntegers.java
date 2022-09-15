@@ -32,6 +32,6 @@ public class ParseIntegers {
             // todo: complete it
         }
         System.out.println("Sum is " + sum);
-        System.out.println("Just words:" + justWords);
+        System.out.println("Just words: " + justWords);
     }
 }
